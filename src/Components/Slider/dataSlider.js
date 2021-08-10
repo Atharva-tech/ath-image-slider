@@ -4,27 +4,32 @@ const dataSlider = [
   {
     id: uuidv4(),
     title: "Lorem ipsum",
-    subTitle: "Lorem"
+    subTitle: "Lorem",
+    name: "Sunset",
   },
   {
     id: uuidv4(),
     title: "Lorem ipsum",
-    subTitle: "Lorem"
+    subTitle: "Lorem",
+    name: "Boat",
   },
   {
     id: uuidv4(),
     title: "Lorem ipsum",
-    subTitle: "Lorem"
+    subTitle: "Lorem",
+    name: "Indoor",
   },
   {
     id: uuidv4(),
     title: "Lorem ipsum",
-    subTitle: "Lorem"
+    subTitle: "Lorem",
+    name: "Cycling",
   },
   {
     id: uuidv4(),
     title: "Lorem ipsum",
-    subTitle: "Lorem"
+    subTitle: "Lorem",
+    name: "flowers",
   },
 ];
 

@@ -1,6 +1,5 @@
-import './App.css';
-import Slider from './Components/Slider/Slider'
-
+import "./App.css";
+import Slider from "./Components/Slider/Slider";
 
 function App() {
   return (
